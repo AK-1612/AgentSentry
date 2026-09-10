@@ -1,6 +1,6 @@
 # AgentSentry
 
-**Enterprise Governance Sidecar Proxy and Micro-Telemetry Audit Layer for Autonomous Multi-Agent Systems**
+**Enterprise Governance Sidecar Proxy and Micro-Telemetry Audit Layer for Autonomous Multi-Agent Systems.**
 
 AgentSentry is an enterprise-grade governance sidecar proxy designed to intercept, audit, and enforce compliance across autonomous multi-agent Large Language Model (LLM) workflows (such as audit automation engines, M&A advisory chains, or tax research agents). It mitigates non-deterministic model output, enforces micro-financial token budgets, and automatically converts multi-agent execution traces into executive Minto Pyramid briefs for regulatory and leadership review.
 
